@@ -31,7 +31,7 @@ void setup(void) {
     display.setCursor(5, 15);
     display.println("LighMeter");
     display.setCursor(5, 25);
-    display.println("@theonetruejorma");
+    display.println("@johalonen");
     display.println("");
     display.display();
     Serial.println("Found TCS34725");
